@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [http://card.1176783-cv94419.tw1.ru](http://card.1176783-cv94419.tw1.ru/)
+- Solution URL: [https://teebkech.github.io/interactive-card/](https://teebkech.github.io/interactive-card/)
 
 ### Built with
 
