@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [http://card.1176783-cv94419.tw1.ru](http://card.1176783-cv94419.tw1.ru/)
 
 ### Built with
 
